@@ -325,7 +325,7 @@ a.buttons:hover {
 #thumbwrap {
   position:relative;
   margin:30px auto;
-  width:252px; height:252px;
+  width:400px; height:252px;
 }
 .thumb img { 
   border:1px solid #000;
