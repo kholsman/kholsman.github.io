@@ -324,7 +324,7 @@ a.buttons:hover {
 /* Section - for images */
 #thumbwrap {
   position:relative;
-  margin:30px auto;
+  margin:0px auto;
   width:400px; height:252px;
 }
 .thumb img { 
