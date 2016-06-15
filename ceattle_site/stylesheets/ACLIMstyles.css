@@ -22,11 +22,6 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* Resize */
-
-$('img.FancyBox').each(function(){
-  $(this).width($(this).width() * 0.25);
-});
 
 /* Base text styles */
 
