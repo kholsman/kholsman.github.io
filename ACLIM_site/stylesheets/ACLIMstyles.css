@@ -328,7 +328,7 @@ a.buttons:hover {
   width:400px; height:252px;
 }
 .thumb img { 
-  border:1px solid #000;
+  border:0px solid #000;
   margin:3px;
   float:left;
 }
@@ -339,7 +339,7 @@ a.buttons:hover {
 }
 .thumb:hover, .thumb:hover span { 
   visibility:visible;
-  top:0; left:250px; 
+  top:20; left:0px; 
   z-index:1;
 }
 
