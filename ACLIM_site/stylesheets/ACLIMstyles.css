@@ -141,7 +141,9 @@ hr {
 }
 
 /* Images */
-
+/*  border:0px solid #000;
+  margin:0px;
+  float:left;*/
 /* Section - for images */
 #thumbwrap {
   position:relative;
@@ -149,9 +151,13 @@ hr {
   width:400px; height:252px;
 }
 .thumb img { 
-  border:0px solid #000;
-  margin:0px;
-  float:left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  text-align: center;
+  border: none;
+
 }
 
 .thumb span { 
@@ -172,6 +178,8 @@ img {
   margin: 10px 0 32px 0;
   border: 1px solid #ccc;
 }
+
+/* images inside paragraph */
 
 p img {
   display: inline;
