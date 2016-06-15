@@ -332,6 +332,7 @@ a.buttons:hover {
   margin:3px;
   float:left;
 }
+/*
 .thumb span { 
   position:absolute;
   visibility:hidden;
@@ -341,7 +342,7 @@ a.buttons:hover {
   top:0; left:250px; 
   z-index:1;
 }
-
+*/
 /* Section - for main page content */
 
 section {
